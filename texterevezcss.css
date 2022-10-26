@@ -1,0 +1,25 @@
+span{
+    margin-left:50%;
+    margin-right:auto;
+    background-color:bisque;
+    width: 50px;
+    display:block;
+    font-weight: bolder;
+    font-family:Arial;
+    color:blueviolet;
+    text-transform: lowercase;
+    transition-duration: 1s;
+    transition-property:all;
+    transition-timing-function: ease-in-out;
+    padding: 10px;
+    margin-bottom: 5px;
+   
+}
+span:hover
+{
+    color: brown;
+    width:100px;
+    text-align:center;
+    text-transform: uppercase;
+ 
+}
